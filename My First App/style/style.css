@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    background-color: aqua;
+}
+.class_form{
+    margin-bottom: 10px;
+}
+td, th{
+    text-align: center;
+    padding: 5px;
+    border: solid red 1px;
+}
+.table_form table{
+    margin: 10px auto;
+}
